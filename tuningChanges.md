@@ -13,6 +13,8 @@
 			 - Better, slight wabble
 		 - 0.225
 			 - Better, slight wabble but faster at autocorrect, still not perfect though
+		 - 0.017578125 (Wednesday, Dec 20th, 2023)
+		 	 - Very precise, minimal wabble, when stationary goes back to angled wheel position, very reactive to input, quick reponses
 	  - Coefficient of Friction @ 1
 		 - 0.2125
 			 - Wheels skipping, no wabble though
@@ -21,6 +23,7 @@
 			 - Still skipping, no wabble
  - `i`
 	- Nothing to change, seems like we don't really need to change the i value.
+	- i set to 0 (Wednesday, Dec 20th, 2023)
 - `d`
 	- Coefficient of Friction @ 2 p - 0.2125
 		- 1
@@ -31,6 +34,8 @@
 			- Feels good, let's take it down a little more
 		- 0.125
 			- Even better, surprisingly
+	 - d set to 0 (Wednesday, Dec 20th, 2023)
+
 #ANGLE
 
 Nothing in the #ANGLE section was changed for this tuning session
